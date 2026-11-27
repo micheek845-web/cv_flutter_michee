@@ -15,6 +15,12 @@ et une page de coordonnées.
 |:---:|:---:|
 | ![Famille](screenshots/03_famille.png) | ![Contacts](screenshots/04_contacts.png) |
 
+## Démonstration vidéo
+
+Une démonstration complète du projet TP2 est disponible :
+
+**[Voir ou télécharger la vidéo TP2](videos/tp2-demo.mp4)**
+
 ## Fonctionnalités
 
 - Création de compte et connexion avec adresse e-mail et mot de passe.
